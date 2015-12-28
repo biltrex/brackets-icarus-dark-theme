@@ -1,0 +1,15 @@
+{
+    "title": "Icarus Theme",
+    "name": "icarus-theme",
+    "description": "Icarus Theme",
+    "homepage": "https://github.com/biltrex/brackets-icarus-dark-theme",
+    "version": "1.0.1",
+    "author": "Jarrod Davis <jrodnewtek@gmail.com>",
+    "license": "MIT",
+    "theme": {
+        "file": "theme.less",
+        "dark": true,
+        "addModeClass": true
+    },
+    "keywords": ["theme"]
+}
